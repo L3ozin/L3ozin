@@ -20,13 +20,11 @@ Estagiário de Inteligência Artificial na Dati e aluno de Sistemas de Informaç
 
 Aqui ficam meus projetos pessoais, estudos e o TCC. O código de trabalho fica em outra conta.
 
-|  |  |
-|---|---|
-| **Hoje** | Estágio em IA generativa na Dati |
-| **Formação** | Sistemas de Informação, FURB |
-| **Certificação** | AWS Certified AI Business Strategist (AIB-C01) |
-| **Base** | Blumenau, Santa Catarina, Brasil |
-| **Ambiente** | Arch Linux |
+- **Hoje:** estágio em IA generativa na Dati
+- **Formação:** Sistemas de Informação, FURB
+- **Certificação:** AWS Certified AI Business Strategist (AIB-C01)
+- **Base:** Blumenau, Santa Catarina, Brasil
+- **Ambiente:** Arch Linux
 
 <br/>
 
@@ -57,7 +55,6 @@ Aqui ficam meus projetos pessoais, estudos e o TCC. O código de trabalho fica e
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=L3ozin&show_icons=true&hide_border=true&bg_color=00000000&title_color=f5f5f7&icon_color=30d158&text_color=86868b&ring_color=30d158&include_all_commits=true&count_private=true&hide_title=true" alt="estatísticas" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3ozin&layout=compact&hide_border=true&bg_color=00000000&title_color=f5f5f7&text_color=86868b&langs_count=8&hide_title=true&exclude_repo=flutter_iniciante_aprendizado,aprendendo-flutter,desktop-tutorial,MadLib" alt="linguagens" />
 
 <br/><br/>
