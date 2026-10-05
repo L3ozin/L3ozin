@@ -1,4 +1,4 @@
-<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Leonardo Prado Suzin. Engenheiro de Dados.">
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Leonardo Prado Suzin. AI Intern.">
   <defs>
     <clipPath id="frame"><rect width="900" height="240" rx="18"/></clipPath>
     <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
@@ -23,7 +23,7 @@
 
     <!-- tagline -->
     <g opacity="0">
-      <text x="450" y="147" text-anchor="middle" font-size="21" font-weight="400" letter-spacing="0.1" fill="#86868b">Engenheiro de Dados. Pipelines, agentes e projetos próprios.</text>
+      <text x="450" y="147" text-anchor="middle" font-size="21" font-weight="400" letter-spacing="0.1" fill="#86868b">AI Intern. IA generativa na AWS e projetos próprios.</text>
       <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0.45s" fill="freeze"/>
       <animateTransform attributeName="transform" type="translate" dur="0.9s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" keyTimes="0;1" values="0 14;0 0"/>
     </g>
